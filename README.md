@@ -121,4 +121,4 @@ Persistir tarefas em um arquivo JSON ou banco de dados.
 Melhorar a experiência de arrastar e soltar com uma biblioteca específica de drag and drop.
 Adicionar testes (unitários no Go e testes de componentes no React).
 Melhorar UI/UX com uma biblioteca de componentes e layout responsivo.
-Adicionar filtros, busca e prioridades nas tarefas.
+Adicionar filtros, busca e prioridades nas tarefcdas.
