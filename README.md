@@ -28,7 +28,7 @@ Requisitos: Go instalado.
 
 ```bash
 cd backend
-go run main.go
+go run *.go
 O backend sobe em:
 
 http://localhost:8080
